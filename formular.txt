@@ -1,0 +1,8 @@
+anmeldung zu kurs/seminar:
+
+schulstufe (auswahl aus liste von 8 schulstufen)
+vorname
+nachname
+männlich/weiblich mit radiobuttons
+auswahl mit checkboxen aus: surfen, segeln, schwimmen (beliebig viele aus diesen 3 sind möglich)
+
